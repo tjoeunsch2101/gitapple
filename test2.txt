@@ -1,2 +1,6 @@
 this is test2
+<<<<<<< HEAD
 modifed the test2.txt
+=======
+modifed a kim2.txt
+>>>>>>> kim
